@@ -34,7 +34,7 @@ const ipdata = {
   },
 };
 const currencyLayer = {
-  baseurl: 'http://api.currencylayer.com',
+  baseurl: 'https://api.currencylayer.com',
   key: '816aace5f867a203d108dde0987d9681',
 
   list: function () {
